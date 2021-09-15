@@ -1,7 +1,7 @@
-graphics
+Design Guidelines & Graphics
 ===
 
-All graphics for the project
+All graphics and design guidelines for ThymeSave.
 
 
 ## Contents

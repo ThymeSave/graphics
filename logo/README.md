@@ -1,29 +1,25 @@
 logo
 ===
 
-Our logo is used to represent the entire app visual.
+## Usage
+Our logo is used to represent the entire app or project.
 
-## Guidelines
-When you want to use the logo, make sure to respect the following
-guidelines.
+Always ensure that the background you are using has only one color or a harmoning gradient.
 
-### Clear space
-Clear space prevents from interfering with the readability of our logo.
-Make sure to keep at least 50% to all sides from the height of the logo.
+![Color](./color/ThymeSaveLogo.svg){width=400px}
 
-#### Redable logo
-Make sure the background of the logo is silent and not noisy.
+If it is not possible to ensure this, please use the flat logo.
 
-### Which logo to use
+![Flat](./flat/ThymeSaveLogo.svg){width=400px}
 
-#### Color
-As long as the logo has enough contrast to the background use the colored version.
+## Dimensions
+There is no limit on how big the logo can or should be.
 
-![](./color/ThymeSaveLogo.png)
+To make sure it is readable do not go under the size where the leaves are no longer visible. Exceptions for this are fav icons etc. where there are technical constraints.
 
-#### Flat
-Use the flat logo when you want to use it on a dark background.
+Always make sure to keep the square aspect ratio for the logo!
 
-If you want you can also include our default background:
+## Positioning
+The logo is placed completely centered. 
 
-![](./flat/ThymeSaveLogo.png)
+Always keep the _protective area_ to make sure the logo can _breathe_.
