@@ -6,11 +6,11 @@ Our logo is used to represent the entire app or project.
 
 Always ensure that the background you are using has only one color or a harmoning gradient.
 
-![Color](./color/ThymeSaveLogo.svg){width=400px}
+![Color](./color/ThymeSaveLogo.svg)
 
 If it is not possible to ensure this, please use the flat logo.
 
-![Flat](./flat/ThymeSaveLogo.svg){width=400px}
+![Flat](./flat/ThymeSaveLogo.svg)
 
 ## Dimensions
 There is no limit on how big the logo can or should be.
