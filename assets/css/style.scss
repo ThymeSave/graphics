@@ -29,7 +29,8 @@ a {
   color: #d7d5d5;
   font-size: 1.6rem;
 
-  &:hover {
+  &:hover,
+  &:focus {
     color: #bebebe;
     font-weight: normal;
   }
