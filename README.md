@@ -1,13 +1,7 @@
-Design Guidelines & Graphics
+design
 ===
 
-All graphics and design guidelines for ThymeSave.
+All graphics and design docs.
 
+For documentation please see [docs.thymesave.app](https://docs.thymesave.app)
 
-## Contents
-
-This repository contains the following graphics:
-
-- [Logo](./logo)
-
-Make sure to always read the README of the graphic you want to use and make sure to follow the guidelines.
