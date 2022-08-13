@@ -2,9 +2,6 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="100%" height="100%" viewBox="0 0 2048 2048" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-miterlimit:7.92683;">
     <g id="Flat">
-        <g transform="matrix(0.979692,0,0,1,41.5916,0)">
-            <rect x="-42.454" y="0" width="2090.45" height="2048" style="fill:rgb(12,124,92);"/>
-        </g>
         <g id="Thyme-clock" serif:id="Thyme clock">
             <g id="Clock-hands" serif:id="Clock hands" transform="matrix(0.99999,-0.0043895,0.0043895,0.99999,132.032,191.915)">
                 <g id="Thyme-hours" serif:id="Thyme hours" transform="matrix(0.338293,0.831173,-0.831173,0.338293,1361.24,-285.359)">
